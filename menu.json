@@ -1,0 +1,155 @@
+{
+    "screen": {
+        "options": [
+            {
+                "title": "Home",
+                "required": true
+            },
+            {
+                "title": "Services",
+                "required": true
+            },
+            {
+                "title": "Specializations",
+                "required": true
+            },
+            {
+                "title": "My Resume",
+                "required": true
+            },
+            {
+                "title": "Success Story",
+                "required": true
+            },
+            {
+                "title": "Contact Us",
+                "required": true
+            }
+        ],
+        "Home": [
+            {
+                "title": "your smile relief",
+                "desc": "unlock dental health",
+                "img": "url",
+                "profession": "profession"
+            }
+        ],
+        "Services": {
+            "title": "Our Service Departments\nBest services we provide",
+            "list": [
+                {
+                    "img": "img",
+                    "serviceName": "Electrophysiology Lab",
+                    "desc": "Explore our innovative electrophysiology lab for cutting-edge cardiac diagnostics."
+                }
+            ]
+        },
+        "Specializations": {
+            "title": "Explore a range of our common specializations\nWe are Best at",
+            "categories": [
+                {
+                    "title": "Heart Transplant",
+                    "desc": "Transforming lives, heart transplants replace failing hearts with healthy ones, offering renewed hope and extended life. Experience this life-saving procedure through our expert care, dedicated to your cardiac well-being.",
+                    "img": "img"
+                }
+            ]
+        },
+        "My Resume": {
+            "title": "Education , Award, Experience & more\nMy Qualifications",
+            "qualifications": [
+                {
+                    "title": "name",
+                    "items": [
+                        {
+                            "year": "2008-2011",
+                            "course": "Doctorate of Medicine in Cardiology",
+                            "boardName": "University of St Andrews United Kingdom "
+                        }
+                    ]
+                }
+            ]
+        },
+        "Success Story": {
+            "title": "Meet my satisfied patients with successful outcomes\nI have cured them",
+            "reviews": [
+                {
+                    "title": "Dr. Smith Doe's care was amazing! He really helped me through my atrial fibrillation treatment, and now I feel so much better. His dedication to my heart health means the world to me!",
+                    "name": "Smith",
+                    "age": 34,
+                    "stars": 1.5
+                }
+            ],
+            "achievements": {
+                "title": "Most Difficult & Success Cases\nPatient Stories",
+                "slides": [
+                    {
+                        "date": "29March2024",
+                        "title": "Heart Transplant",
+                        "desc": "In our hospital, we're honored to share the inspiring journey of a patient's transformation. A heart, once weary and fragile, now pulses with new life, all thanks to transplantation. ",
+                        "readMore": "link"
+                    }
+                ]
+            }
+        },
+        "FAQ": {
+            "title": "Got Questions? Well, We've Got Answers!",
+            "desc": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "question",
+                    "resp": "resp"
+                }
+            ]
+        },
+        "Contact Us": {
+            "title": "come,lets connect",
+            "form": [
+                {
+                    "input": "Your Name"
+                },
+                {
+                    "input": "Your Mail Address"
+                }
+            ],
+            "checkBox": {
+                "desc": "I agree that my submitted data is being collected and stored."
+            },
+            "submit": true
+        },
+        "Footer": {
+            "userDetails": {
+                "name": "name",
+                "profession": "profession",
+                "socialMediaLinks": [
+                    {
+                        "name": "fb",
+                        "link": "link",
+                        "icon": "icon"
+                    }
+                ],
+                "copyRights": "All rights are reserved by @ Dr M Edwards"
+            },
+            "poc": [
+                {
+                    "title": "email",
+                    "iconLink": "iconLink",
+                    "desc": "email"
+                },
+                {
+                    "title": "mobile",
+                    "iconLink": "iconLink",
+                    "desc": "mobile"
+                },
+                {
+                    "title": "address",
+                    "iconLink": "address",
+                    "desc": "address"
+                }
+            ],
+            "map": {
+                "lat": "12334",
+                "long": "12333"
+            }
+        }
+    }
+}
